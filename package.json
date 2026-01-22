@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "remotion studio",
-    "build": "remotion render src/index.ts HelloWorld out/video.mp4",
+    "build": "remotion render src/index.tsx HelloWorld out/video.mp4",
     "upgrade": "remotion upgrade"
   },
   "repository": {
